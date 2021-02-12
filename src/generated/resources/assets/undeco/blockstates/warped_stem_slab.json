@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=top": {
+      "model": "undeco:block/warped_stem_slab_top"
+    },
+    "type=bottom": {
+      "model": "undeco:block/warped_stem_slab"
+    },
+    "type=double": {
+      "model": "minecraft:block/warped_stem"
+    }
+  }
+}

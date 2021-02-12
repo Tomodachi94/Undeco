@@ -1,0 +1,7 @@
+{
+  "parent": "ornamental:block/util/beam_cross_column",
+  "textures": {
+    "side": "minecraft:block/birch_log",
+    "end": "minecraft:block/birch_log_top"
+  }
+}

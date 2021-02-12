@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "undeco:smooth_stone_beam"
+    }
+  ],
+  "result": {
+    "item": "undeco:smooth_stone_pole"
+  }
+}

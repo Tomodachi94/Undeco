@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "undeco:dark_oak_log_beam"
+    }
+  ],
+  "result": {
+    "item": "undeco:dark_oak_log_pole"
+  }
+}

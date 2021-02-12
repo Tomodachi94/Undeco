@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "/#/",
+    "/#/"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:andesite"
+    },
+    "/": {
+      "item": "minecraft:andesite_slab"
+    }
+  },
+  "result": {
+    "item": "undeco:andesite_fence_gate"
+  }
+}

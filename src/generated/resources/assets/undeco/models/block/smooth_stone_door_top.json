@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_top",
+  "textures": {
+    "bottom": "undeco:block/smooth_stone_door_bottom",
+    "top": "undeco:block/smooth_stone_door_top"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "undeco:oak_log_door",
+    "undeco:spruce_log_door",
+    "undeco:birch_log_door",
+    "undeco:jungle_log_door",
+    "undeco:acacia_log_door",
+    "undeco:dark_oak_log_door",
+    "undeco:crimson_stem_door",
+    "undeco:warped_stem_door"
+  ]
+}

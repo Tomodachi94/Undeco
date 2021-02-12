@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "/#/",
+    "/#/"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:mossy_cobblestone"
+    },
+    "/": {
+      "item": "minecraft:mossy_cobblestone_slab"
+    }
+  },
+  "result": {
+    "item": "undeco:mossy_cobblestone_fence_gate"
+  }
+}

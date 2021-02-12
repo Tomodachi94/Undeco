@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "undeco:acacia_pole"
+    }
+  ],
+  "result": {
+    "item": "undeco:acacia_beam"
+  }
+}

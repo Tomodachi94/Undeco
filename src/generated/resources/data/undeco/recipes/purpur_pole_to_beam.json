@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "undeco:purpur_pole"
+    }
+  ],
+  "result": {
+    "item": "undeco:purpur_beam"
+  }
+}

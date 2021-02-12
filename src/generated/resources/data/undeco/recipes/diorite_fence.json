@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#/#",
+    "#/#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:diorite"
+    },
+    "/": {
+      "item": "minecraft:diorite_slab"
+    }
+  },
+  "result": {
+    "item": "undeco:diorite_fence",
+    "count": 3
+  }
+}

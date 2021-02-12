@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "undeco:granite_pole"
+    }
+  ],
+  "result": {
+    "item": "undeco:granite_beam"
+  }
+}

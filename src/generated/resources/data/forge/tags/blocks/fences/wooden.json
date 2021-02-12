@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "undeco:oak_log_fence",
+    "undeco:spruce_log_fence",
+    "undeco:birch_log_fence",
+    "undeco:jungle_log_fence",
+    "undeco:acacia_log_fence",
+    "undeco:dark_oak_log_fence",
+    "undeco:crimson_stem_fence",
+    "undeco:warped_stem_fence"
+  ]
+}

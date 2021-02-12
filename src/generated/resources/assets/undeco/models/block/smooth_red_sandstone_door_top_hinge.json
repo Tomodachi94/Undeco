@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_top_rh",
+  "textures": {
+    "bottom": "undeco:block/smooth_red_sandstone_door_bottom",
+    "top": "undeco:block/smooth_red_sandstone_door_top"
+  }
+}

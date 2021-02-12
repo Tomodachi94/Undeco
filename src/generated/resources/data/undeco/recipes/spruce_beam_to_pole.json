@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "undeco:spruce_beam"
+    }
+  ],
+  "result": {
+    "item": "undeco:spruce_pole"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#/#",
+    "#/#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:prismarine_bricks"
+    },
+    "/": {
+      "item": "minecraft:prismarine"
+    }
+  },
+  "result": {
+    "item": "undeco:prismarine_brick_fence",
+    "count": 3
+  }
+}

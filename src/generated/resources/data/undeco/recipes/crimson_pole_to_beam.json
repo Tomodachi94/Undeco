@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "undeco:crimson_pole"
+    }
+  ],
+  "result": {
+    "item": "undeco:crimson_beam"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "/#/",
+    "/#/"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:granite"
+    },
+    "/": {
+      "item": "minecraft:granite_slab"
+    }
+  },
+  "result": {
+    "item": "undeco:granite_fence_gate"
+  }
+}

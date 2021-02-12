@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "undeco:mossy_cobblestone_beam"
+    }
+  ],
+  "result": {
+    "item": "undeco:mossy_cobblestone_pole"
+  }
+}

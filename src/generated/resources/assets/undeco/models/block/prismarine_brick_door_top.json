@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_top",
+  "textures": {
+    "bottom": "undeco:block/prismarine_brick_door_bottom",
+    "top": "undeco:block/prismarine_brick_door_top"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "ornamental:block/util/beam_inventory",
+  "textures": {
+    "end": "minecraft:block/polished_blackstone",
+    "side": "minecraft:block/polished_blackstone"
+  }
+}

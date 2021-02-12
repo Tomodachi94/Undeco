@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "undeco:birch_log_pole"
+    }
+  ],
+  "result": {
+    "item": "undeco:birch_log_beam"
+  }
+}

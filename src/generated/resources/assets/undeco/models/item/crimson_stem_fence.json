@@ -1,0 +1,7 @@
+{
+  "parent": "ornamental:block/util/fence_inventory_column",
+  "textures": {
+    "end": "minecraft:block/crimson_stem_top",
+    "side": "minecraft:block/crimson_stem"
+  }
+}

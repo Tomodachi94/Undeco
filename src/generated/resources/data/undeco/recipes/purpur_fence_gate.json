@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "/#/",
+    "/#/"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:purpur_block"
+    },
+    "/": {
+      "item": "minecraft:purpur_slab"
+    }
+  },
+  "result": {
+    "item": "undeco:purpur_fence_gate"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "undeco:oak_log_stairs",
+    "undeco:spruce_log_stairs",
+    "undeco:birch_log_stairs",
+    "undeco:jungle_log_stairs",
+    "undeco:acacia_log_stairs",
+    "undeco:dark_oak_log_stairs",
+    "undeco:crimson_stem_stairs",
+    "undeco:warped_stem_stairs",
+    "undeco:smooth_stone_stairs",
+    "undeco:cracked_stone_brick_stairs"
+  ]
+}

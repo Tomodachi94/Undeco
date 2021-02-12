@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "undeco:andesite_beam"
+    }
+  ],
+  "result": {
+    "item": "undeco:andesite_pole"
+  }
+}

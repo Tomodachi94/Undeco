@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "undeco:oak_log_slab",
+    "undeco:spruce_log_slab",
+    "undeco:birch_log_slab",
+    "undeco:jungle_log_slab",
+    "undeco:acacia_log_slab",
+    "undeco:dark_oak_log_slab",
+    "undeco:crimson_stem_slab",
+    "undeco:warped_stem_slab"
+  ]
+}
